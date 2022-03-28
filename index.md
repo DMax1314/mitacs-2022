@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my blogs about Mitacs Research Intern
 
-You can use the [editor on GitHub](https://github.com/DMax1314/mitacs-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can find more details about Mitacs [here](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Project details
+Project tittle: Online optimization of a dial-and-ride problem with the integral primal simplex
+Professor: Antoine Legrain
+University: [École Polytechnique de Montréal – Montréal](https://www.polymtl.ca/)
+Project Location Province: Québec
 
-### Markdown
+With the increase in ridesourcing services as Uber, Didi or Lyft, the needs to optimize the rider and driver matching is essential to operate an efficient system. This dial-and-ride problem has already received a wide attention from the academic world in its offline version. In its dynamic form, the problem is becoming more and more popular. These ridesourcing services need indeed to solve dynamic problems and compute in real-time the routes of their drivers. We propose to use the strengths of the integral primal simplexe (compute a new integer solution from a previous one) to expand the current routes with the new incoming requests. The proposed algorithm will be tested on the Trip Record Data of the New York Taxi and Limousine Commission.
+## Research Project Plan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DMax1314/mitacs-2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Post Contents
+## Pre
+## Departure
