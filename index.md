@@ -2,7 +2,7 @@
 
 You can find more details about Mitacs [here](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
 
-# Project details
+# [Project details](research_detail)
 Project tittle: Online optimization of a dial-and-ride problem with the integral primal simplex
 
 Professor: [Antoine Legrain](https://www.gerad.ca/en/people/antoine-legrain)
